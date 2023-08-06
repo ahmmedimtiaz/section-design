@@ -43,6 +43,7 @@ body{
 .navigation a{
     text-decoration: none;
     color: #b5b5b5;
+    width: fit-content;
 }
 
 .navigation a:hover{
